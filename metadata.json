@@ -1,0 +1,6 @@
+{
+  "name": "Palabra de Oro — Spanish Field of Wonders",
+  "description": "Armenian-to-Spanish Field of Wonders quiz and word-guessing game with click-to-translate support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
